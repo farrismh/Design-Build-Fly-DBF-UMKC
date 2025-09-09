@@ -1,1 +1,9 @@
 # Design-Build-Fly-DBF-UMKC
+
+The AIAA through the Applied Aerodynamics, Airplane Design, Design Engineering and Flight Test Technical Committees and the AIAA Foundation invites all university students to participate in the Textron Aviation/Raytheon Student Design, Build, Fly Competition. The contest will provide a real-world airplane design experience for engineering students by giving them the opportunity to validate their analytic studies.
+Student teams will design, fabricate, and demonstrate the flight capabilities of an electric powered, remote-controlled airplane that can best meet the specified mission profile. The goal is a balanced design possessing good flight handling qualities and practical and affordable manufacturing requirements while demonstrating high vehicle performance.
+To encourage innovation and maintain a fresh design challenge, the design requirements and performance objectives are updated for each new contest year. The changes provide new design requirements and opportunities, while allowing for application of technology developed by the teams from prior years.
+Check the rules package carefully as items and approaches that were legal in past years may not be legal for this contest year. Only the contents of this year's Rules package along with the current FAQ and Q&A documents hold bearing on the requirements and/or allowances for the current contest year.
+NOTE: Items in the rules that are critical to the safety and execution of the competition or are new are hi-lighted in RED text. Please take note of these requirements and rules.
+It is the responsibility of the teams to know and follow all provided rules, the FAQ and Q&A, and all contest day briefings.
+Cash prizes are $3000 for 1st, $2000 for 2nd and $1500 for 3rd place. The winning team(s) may be invited to present their design at AIAA’s AVIATION Forum. The team with the best Report Score will receive a $100 prize from the Design Engineering Technical Committee.
